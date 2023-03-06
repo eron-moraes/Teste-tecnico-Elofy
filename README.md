@@ -4,7 +4,7 @@ O objetivo deste repositório é documentar o desafio técnico para a equipe de 
 
 ______________________________________________________________________________________________________
 
-Download do desafio proposto: https://drive.google.com/file/d/1dOiCSllckyaU8jE7tEBInjaGvoR0zE36/view
+PDF do desafio proposto: https://drive.google.com/file/d/1dOiCSllckyaU8jE7tEBInjaGvoR0zE36/view
 
 Segue a Lista de cenários de validações:
 
