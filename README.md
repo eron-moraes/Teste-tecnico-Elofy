@@ -2,6 +2,8 @@
 
 O objetivo deste repositório é documentar o desafio técnico para a equipe de QA que me foi passado.
 
+______________________________________________________________________________________________________
+
 Download do desafio: https://drive.google.com/file/d/1dOiCSllckyaU8jE7tEBInjaGvoR0zE36/view
 
 Segue a Lista de cenários de validações:
